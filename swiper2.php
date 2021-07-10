@@ -33,18 +33,6 @@
                 </figure><!-- .swiper-slide-img-wrapper -->
             </div><!-- .swiper-slide -->
 
-            <div class="swiper-slide">
-                <figure class="swiper-slide-img-wrapper">
-                    <img src="<?php echo get_theme_file_uri('assets/images/alex-loup-aX_ljOOyWJY-unsplash.jpg'); ?>">
-                </figure><!-- .swiper-slide-img-wrapper -->
-            </div><!-- .swiper-slide -->
-            
-            <div class="swiper-slide">
-                <figure class="swiper-slide-img-wrapper">
-                    <img src="<?php echo get_theme_file_uri('assets/images/alex-loup-aX_ljOOyWJY-unsplash.jpg'); ?>">
-                </figure><!-- .swiper-slide-img-wrapper -->
-            </div><!-- .swiper-slide -->
-
         </div><!-- .swiper-wrapper -->
     </div><!-- .swiper-container -->
 
